@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Ampcontrol](https://www.ampcontrol.io/)**  
-
-  AI-driven EV charging and energy management platform specialized in depot charging optimization, load management, and OCPP-compliant charger integration.
-
-
-
-- **[ChargePoint Fleet](https://www.chargepoint.com/)**  
-
-  Fleet-focused charging software and hardware ecosystem for managing depot and workplace charging sessions, energy use, and driver policies.
-
-
-
-- **[Geotab EV](https://www.geotab.com/)**  
-
-  Telematics platform with deep EV data support (300+ models), battery state-of-charge/health monitoring, suitability analysis, and electrification planning tools.
-
-
-
-- **[Samsara Fleet Electrification](https://www.samsara.com/)**  
-
-  Unified fleet platform offering EV suitability scoring, charging analytics, battery insights, and mixed-fleet visibility for organizations transitioning to electric.
-
-
-
-- **[Volteras](https://www.volteras.com/)**  
-
-  EV fleet and charging management solution focused on operational visibility and energy optimization.
-
-
-
-- **[EVenergi](https://www.evenergi.com/)**  
-
-  Electrification planning and fleet transition platform helping organizations model and manage the shift to electric vehicles.
-
-
-
-- **[Optiwatt Fleet](https://www.optiwatt.com/)**  
-
-  Smart charging and energy management tools aimed at optimizing EV charging costs and grid interaction for fleets.
-
-
-
-- **[AMPECO Fleet](https://www.ampeco.com/)**  
-
-  EV charging network management platform with fleet-oriented features for operators and large charging deployments.
-
-
-
-- **[Driivz Fleet / InSite](https://driivz.com/)**  
-
-  Comprehensive EV charging management system supporting depot operations, session control, energy optimization, and fleet workflows.
-
-
-
-- **[Hitachi ZeroCarbon](https://www.hitachi.com/)**  
-
-  Enterprise solutions for zero-carbon mobility and fleet electrification, combining energy and vehicle management capabilities.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Ampcontrol](https://www.ampcontrol.io/)** | AI-driven EV charging and energy management platform specialized in depot charging optimization, load management, and OCPP-compliant charger integration. | Starts at ~$2,000/month for depot energy management & CSMS cloud platform | No free-forever plan; Guided demo & tailored pilot evaluation available upon request |
+| **[ChargePoint Fleet](https://www.chargepoint.com/)** | Fleet-focused charging software and hardware ecosystem for managing depot and workplace charging sessions, energy use, and driver policies. | Starts at ~$360 – $1,630/port/year (~$30 – $135/port/month depending on Core vs. Enterprise Fleet tier) | No free-forever plan; Free site assessment & custom fleet pilot upon consultation |
+| **[Geotab EV](https://www.geotab.com/)** | Telematics platform with deep EV data support (300+ models), battery state-of-charge/health monitoring, suitability analysis, and electrification planning tools. | Starts at ~$30 – $40/vehicle/month (GO Core / GO tier via authorized resellers) | No free-forever plan; 30-day free pilot program (e.g. Geotab Vitality) with GO tracker hardware |
+| **[Samsara Fleet Electrification](https://www.samsara.com/)** | Unified fleet platform offering EV suitability scoring, charging analytics, battery insights, and mixed-fleet visibility for organizations transitioning to electric. | Starts at ~$27 – $33/vehicle/month (telematics tier; hardware ~$99–$148 upfront; 3-year contract) | 30-day free trial (includes test hardware units with full platform access; return before 30 days to avoid charges) |
+| **[Volteras](https://www.volteras.com/)** | Unified OEM connected-vehicle API and EV fleet charging platform for direct vehicle telematics and energy optimization without aftermarket hardware. | Starts at ~$2 – $5/connected vehicle/month for direct OEM API data access | Free developer sandbox tier with unlimited test calls for simulated/mock vehicle VINs |
+| **[EVenergi (BetterFleet)](https://www.evenergi.com/)** | Electrification planning, digital twin depot modeling, and fleet transition simulation platform for public transit and commercial fleets. | Starts at ~$15 – $30/vehicle/month for digital twin modeling & transition planning tools | No free-forever plan; Free demo and preliminary electrification feasibility assessment |
+| **[Optiwatt Fleet](https://www.optiwatt.com/)** | Smart charging and energy management platform aimed at optimizing EV charging costs and utility grid interaction for fleets and drivers. | **Free** for standard vehicle tracking & automated charge scheduling (utility-funded model) | Free forever for unlimited vehicles and automated charging schedule optimization |
+| **[AMPECO Fleet](https://www.ampeco.com/)** | Hardware-agnostic EV charging network management platform (CPMS) with fleet-oriented charging controls, dynamic tariffs, and roaming. | Starts at ~$10 – $25/charging point/month (plus initial onboarding & setup fee) | No free-forever plan; Live interactive demo & sandbox environment upon sales inquiry |
+| **[Driivz Fleet / InSite](https://driivz.com/)** | Comprehensive EV charging management system (CSMS) supporting depot operations, smart energy optimization, and driver billing. | Starts at ~$600 – $800/port/year (~$50 – $67/port/month for cloud management) | No free-forever plan; Free interactive demo and custom ROI calculation consultation |
+| **[Hitachi ZeroCarbon](https://www.hitachi.com/)** | Enterprise solutions for zero-carbon mobility and fleet electrification, combining BatteryManager analytics, depot charging, and TCO financing. | Custom managed service packages starting from ~$50/vehicle/month (or financed per-kWh/charger infrastructure models) | No free-forever plan; Free access to HGV Carbon & Cost Calculator and fleet readiness assessment |
 
 
 
