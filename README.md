@@ -102,6 +102,9 @@ The following curated open-source repositories provide foundational building blo
 - **[FleetRL](https://github.com/EnzoCording/FleetRL)** [![GitHub stars](https://img.shields.io/github/stars/EnzoCording/FleetRL?style=social&color=white)](https://github.com/EnzoCording/FleetRL/stargazers)  
   🧠 Reinforcement-learning OpenAI Gym environment specifically tailored for optimizing smart EV fleet charging schedules with spot electricity pricing and solar generation.
 
+- **[EVtivity CSMS](https://github.com/EVtivity/evtivity-csms)** [![GitHub stars](https://img.shields.io/github/stars/EVtivity/evtivity-csms?style=social&color=white)](https://github.com/EVtivity/evtivity-csms/stargazers)  
+  🚌 Self-hosted Charging Station Management System (OCPP 1.6 and 2.1, 2.0.1 compatible) for depot charging: departure-aware planning that has each fleet vehicle ready by its departure within the site power limits, a VDV 463 interface for bus depot systems, fleet billing with invoices, and load management across transformers, panels, circuits, batteries and solar. Source-available under the Business Source License 1.1, free for a single operator's own network.
+
 - **[OpenCPO](https://github.com/opencpo/opencpo)** [![GitHub stars](https://img.shields.io/github/stars/opencpo/opencpo?style=social&color=white)](https://github.com/opencpo/opencpo/stargazers)  
   🔋 Open-source EV charging platform with OCPP 1.6/2.0.1 central system, administrator dashboard, driver mobile interface, and simulated hardware test harness.
 
